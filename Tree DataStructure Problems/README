@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------------README INSTRUCTIONS
+
+untar and point in that directory.
+
+for sample run file just run make. 
+This displays the arguments needed for specific executable to run properly.
+
+//---------------------------------------------------------------------------------FLOYD
+
+FLOYD for compiling and executing the floyd algorithm
+		->make floyd 
+and then type:
+		-> ./floyd inputfloyd.txt
+
+The filename can be changed. 
+WARNING: Forn file based input-> Do not give extra newlines if not needed. Do not put commas at the end of line.
+
+//---------------------------------------------------------------------------------TROMINO
+
+Tromino for compiling and executing the tromino algorithm
+		->make tro 
+and then type:
+		-> ./tro
+
+//---------------------------------------------------------------------------------STRASSEN's
+
+Strassen's for compiling and executing the floyd algorithm
+type:
+		->make stra 
+and then type:
+		-> ./stra N
+
+//---------------------------------------------------------------------------------end.
