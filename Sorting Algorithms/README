@@ -1,0 +1,14 @@
+To run this file:
+1. open terminal
+2. go to this folder
+3. type make to execute
+4. to clean executable files run command:
+	make clean
+
+---------------------------
+This code has been tested on LINUX environment.
+---------------------------
+
+Thanks and regards,
+Sincerely,
+Omkar Nibandhe.
